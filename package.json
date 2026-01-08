@@ -1,0 +1,15 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "<img src=\"https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif\" width=\"120\" /> <img src=\"https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif\" width=\"120\" />",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vrybachenko",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
