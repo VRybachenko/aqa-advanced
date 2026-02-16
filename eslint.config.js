@@ -13,6 +13,7 @@ export default [
       globals: {
         ...globals.browser, // console, setTimeout, fetch
         ...globals.node, // console, process, __dirname
+        ...globals.jest, // test, expect, describe, beforeEach...
       },
     },
     rules: {
