@@ -139,3 +139,7 @@ vite.config.ts.timestamp-*
 # IntelliJ IDEA / WebStorm
 .idea/
 *.iml
+
+# Allure
+allure-results/
+allure-report/
